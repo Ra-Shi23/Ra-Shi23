@@ -11,8 +11,7 @@ I am a passionate learner from the **2022–2026 batch** at **Sage University (I
 - 📚 **Learning:** Deep diving into Linux Internals, Socket Programming, and C++.
 - ✍️ **Interest:** Exploring Hindi literature and grammar in my free time.
 
-### 🛠️ Tech Stack<img width="736" height="1104" alt="613489a04a823855b321ec5416098350" src="https://github.com/user-attachments/assets/0717bdb8-54f1-4bad-8125-dc2361983fc8" />
-
+### 🛠️ Tech Stack
 - **Languages:** C, C++, Python.
 - **Operating Systems:** Linux (Ubuntu/Kali), Windows.
 - **Tools:** Git, GitHub, Wireshark, Cisco Packet Tracer, Selenium.
@@ -26,3 +25,5 @@ I am a passionate learner from the **2022–2026 batch** at **Sage University (I
 
 ### 🤝 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/rashi-tomar-900b29254) | [Email](mailto:rashi3685t@gmail.com)
+
+### <img width="736" height="1104" alt="613489a04a823855b321ec5416098350" src="https://github.com/user-attachments/assets/0717bdb8-54f1-4bad-8125-dc2361983fc8" />
